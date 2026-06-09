@@ -131,9 +131,9 @@ market-retail-performance-powerbi/
 
 ## 👤 Author
 
-**[Your Name]**
-- LinkedIn: [your-linkedin-url]
-- GitHub: [your-github-username]
+**Than Sin Htun**
+- LinkedIn: www.linkedin.com/in/thansinhtun
+- GitHub: https://github.com/ThanSinHtun
 
 ## 📄 Data & License
 
