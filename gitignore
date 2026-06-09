@@ -1,0 +1,9 @@
+# Power BI temporary / autorecover files
+*.pbix.tmp
+*.pbix.bak
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

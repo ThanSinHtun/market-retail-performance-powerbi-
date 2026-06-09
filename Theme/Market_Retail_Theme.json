@@ -1,0 +1,27 @@
+{
+  "name": "Market Retail Performance",
+  "dataColors": [
+    "#14688C",
+    "#C0504D",
+    "#6FA3C0",
+    "#C5CCD3",
+    "#0E3D57",
+    "#88B3CB",
+    "#888780",
+    "#D89895"
+  ],
+  "foreground": "#37414A",
+  "foregroundNeutralSecondary": "#5A6470",
+  "foregroundNeutralTertiary": "#8A929B",
+  "background": "#FFFFFF",
+  "backgroundLight": "#E9EEF2",
+  "backgroundNeutral": "#DCE3E9",
+  "tableAccent": "#14688C",
+  "good": "#14688C",
+  "neutral": "#888780",
+  "bad": "#C0504D",
+  "maximum": "#14688C",
+  "center": "#6FA3C0",
+  "minimum": "#C5CCD3",
+  "null": "#C5CCD3"
+}
